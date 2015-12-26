@@ -9,8 +9,7 @@
 </head>
     
     <body>
-        <header>
-            <div class="nav">
+        <header>gggg
                 <a href="Index.php"><div class="butt">ГОЛОВНА</div></a>
                 <a href="ist.php"><div class="butt">ІСТОРІЯ</div></a>
                 <a href="inf.php"><div class="butt">ІНФРАСТРУКТУРА</div></a>
